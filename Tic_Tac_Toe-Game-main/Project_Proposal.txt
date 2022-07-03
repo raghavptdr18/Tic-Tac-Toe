@@ -1,0 +1,27 @@
+﻿CS 203 - Project Proposal
+Rohan (2020CSB1117)
+Raghav Patidar (2020CSB1115)
+https://github.com/rohan2094/CS-203-Project.git
+
+Project 2 - Tic Tac Toe Game
+1. TITLE - Tic Tac Toe Game
+
+
+2. OBJECTIVE -
+* In this game, a player plays with a computer. Also, there will be an option of 2 player mode.
+* There is a 3X3 grid , in which both players mark their sign turn by turn. If a particular sign comes in any row, column or diagonal, the respective player/computer wins.
+* We will try to make a user-friendly interface for this project.
+
+
+3. IMPLEMENTATION -
+* There can be two signs possible X or O (represented by 2’b01 and 2’b10 respectively). 
+* If a person applies a mark at a particular position , his two bit information gets stored at that position. 
+* For no mark, 2’b00 is used. 
+* At game over 2’b11 will be stored
+* Reset button will be implemented to restart the game.
+Implemented on following softwares :-
+* Verilog HDL Programming Language
+
+   4. FUNCTIONALITY -
+   * Used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees.
+   * This classic game contributes  to children's developmental growth in numerous ways including their understanding of predictability, problem solving, spatial reasoning, hand-eye coordination, turn taking, and strategizing
