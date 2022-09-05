@@ -1,7 +1,6 @@
 # CS-203-Project
 Digital Logic Design
 Created by -
-Rohan (2020CSB1117)
 Raghav Patidar (2020CSB1115)
 
 This project is a design of working of Tic-Tac-Toe game.
